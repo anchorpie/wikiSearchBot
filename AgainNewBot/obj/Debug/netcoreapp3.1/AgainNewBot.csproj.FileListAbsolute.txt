@@ -1,0 +1,16 @@
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\bin\Debug\netcoreapp3.1\AgainNewBot.exe
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\obj\Debug\netcoreapp3.1\AgainNewBot.csprojAssemblyReference.cache
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\obj\Debug\netcoreapp3.1\AgainNewBot.AssemblyInfoInputs.cache
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\obj\Debug\netcoreapp3.1\AgainNewBot.AssemblyInfo.cs
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\bin\Debug\netcoreapp3.1\AgainNewBot.deps.json
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\bin\Debug\netcoreapp3.1\AgainNewBot.runtimeconfig.json
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\bin\Debug\netcoreapp3.1\AgainNewBot.runtimeconfig.dev.json
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\bin\Debug\netcoreapp3.1\AgainNewBot.dll
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\bin\Debug\netcoreapp3.1\AgainNewBot.pdb
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\obj\Debug\netcoreapp3.1\AgainNewBot.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\obj\Debug\netcoreapp3.1\AgainNewBot.csproj.CopyComplete
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\obj\Debug\netcoreapp3.1\AgainNewBot.dll
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\obj\Debug\netcoreapp3.1\AgainNewBot.pdb
+C:\Users\Павел\source\My C# Projects\AgainNewBot\AgainNewBot\obj\Debug\netcoreapp3.1\AgainNewBot.genruntimeconfig.cache
